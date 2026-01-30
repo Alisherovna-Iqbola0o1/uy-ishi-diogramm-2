@@ -1,2 +1,8 @@
 # uy-ishi-diogramm-2
 Djangoda Diogramm boyicha bajargan 2-Projectim
+
+    "users",
+    "student",
+    "teacher",
+    "adminprofile",
+    "group",
